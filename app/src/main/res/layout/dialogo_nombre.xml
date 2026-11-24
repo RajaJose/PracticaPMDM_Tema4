@@ -6,13 +6,14 @@
     android:layout_height="match_parent">
 
     <EditText
-        style="@style/miEstilo"
         android:id="@+id/txtProfesion"
+        style="@style/miEstilo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/infoNombre"
-        android:inputType="text"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúÁÉÍÓÚñÑ "
+        android:inputType="textCapWords"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
