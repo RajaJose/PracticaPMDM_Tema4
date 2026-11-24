@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="miEstilo" parent="@style/Theme.PracticaTema4">
+    <item name="android:fontFamily">@font/medieval</item>
+
+
+
+    </style>
+    <style name="boton" parent="@style/Theme.PracticaTema4">
+        <item name="android:backgroundTint">@color/sepia_base</item>
+        <item name="android:textColor">@color/negro</item>
+        <item name="strokeColor">@color/blanco</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+</resources>

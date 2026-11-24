@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">My Avatar</string>
+    <string name="tituloActivity">Avatar</string>
+    <string name="tituloDialogoNombre">Nombre</string>
+    <string name="tituloDialogoSexo">Sexo</string>
+    <string name="tituloDialogoProfesion">Profesión</string>
+    <string name="tituloDialogoEspecie">Especie</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnComenzar">Comenzar</string>
+    <string name="btnVolver">Volver</string>
+    <string name="errorNombre">Por favor, introduzca su nombre...</string>
+    <string name="errorSexo">Por favor, elija un género...</string>
+    <string name="errorEspecie">Por favor, elija una especie...</string>
+    <string name="errorProfesion">Por favor, elija una profesión...</string>
+    <string name="infoNombre">Nombre: </string>
+    <string name="infoSexo">Sexo: </string>
+    <string name="infoEspecie">Especie: </string>
+    <string name="infoProfesion">Profesión: </string>
+    <string name="rdGenero">Sexo: </string>
+    <string name="rdHombre">Hombre: </string>
+    <string name="rdMujer">Mujer: </string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="vida">Vida:</string>
+    <string name="magia">Magia:</string>
+    <string name="fuerza">Fuerza:"</string>
+    <string name="velocidad">Velocidad:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="profesion">Profesión:</string>
+    <string name="especie">Especie:</string>
+    <string name="seleccione">Seleccione una opción...</string>
+    <string name="Elfo">Elf@</string>
+    <string name="Elfa">Elfa</string>
+    <string name="Elf">Elfo</string>
+    <string name="Enano">Enan@</string>
+    <string name="Enana">Enana</string>
+    <string name="Enan">Enano</string>
+    <string name="Hobbit">Hobbit</string>
+    <string name="Humano">Human@</string>
+    <string name="Humana">Humana</string>
+    <string name="Human">Humano</string>
+    <string name="Arquero">Arquer@</string>
+    <string name="Arquera">Arquera</string>
+    <string name="Arquer">Arquero</string>
+    <string name="Guerrero">Guerrer@</string>
+    <string name="Guerrera">Guerrera</string>
+    <string name="Guerrer">Guerrero</string>
+    <string name="Mago">Mag@</string>
+    <string name="Maga">Maga</string>
+    <string name="Mag">Mago</string>
+    <string name="Herrero">Herrer@</string>
+    <string name="Herrera">Herrera</string>
+    <string name="Herrer">Herrero</string>
+    <string name="Minero">Miner@</string>
+    <string name="Minera">Minera</string>
+    <string name="Miner">Minero</string>
+
+
+
+
+</resources>
